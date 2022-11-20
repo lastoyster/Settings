@@ -10,10 +10,12 @@ a {
   text-decoration: none;
   color: #67748e;
 }
+
 a:hover {
   text-decoration: none;
   color: #292d32;
 }
+
 a:focus {
   text-decoration: none;
 }
@@ -24,6 +26,7 @@ a:focus {
   border: none;
   padding: 0;
 }
+
 .button:focus {
   box-shadow: none;
 }
@@ -123,11 +126,13 @@ form-control ::placeholder {
   font-size: 16px;
   margin-bottom: 25px;
 }
+
 .single-contact-info .address {
   list-style-type: none;
   padding: 0;
   margin: 0;
 }
+
 .single-contact-info .address .location .span {
   display: block;
   font-size: 14px;
@@ -135,21 +140,26 @@ form-control ::placeholder {
   margin-bottom: 10px;
   color: #292d32;
 }
+
 .single-contact-info .address .li {
   position: relative;
   margin-bottom: 20px;
   padding-left: 90px;
 }
+
 .single-contact-info .address .li a {
   color: #67748e;
   display: block;
 }
+
 .single-contact-info .address .li a:hover {
   color: #4fcb8d;
 }
+
 .single-contact-info .address .li:last-child {
   margin-bottom: 0;
 }
+
 .single-contact-info .address .li .span {
   position: absolute;
   left: 0;
@@ -159,18 +169,22 @@ form-control ::placeholder {
   margin-bottom: 10px;
   color: #292d32;
 }
+
 .single-contact-info .social-link {
   padding: 0;
   margin: 0;
   list-style-type: none;
 }
+
 .single-contact-info .social-link li {
   display: inline-block;
   margin-right: 10px;
 }
+
 .single-contact-info .social-link li:last-child {
   margin-right: 0;
 }
+
 .single-contact-info .social-link li .a .i {
   width: 40px;
   height: 40px;
@@ -181,10 +195,12 @@ form-control ::placeholder {
   display: inline-block;
   text-align: center;
 }
+
 .single-contact-info .social-link li .a:hover i {
   color: #ffffff;
   background-color: #292d32;
 }
+
 .single-contact-info.follow-us {
   margin-top: 40px;
 }
@@ -198,27 +214,35 @@ Profile Style
   border: none;
   padding: 12px 30px;
 }
+
 .btn.btn-outline-primary {
   border: solid 1px;
 }
+
 .btn.btn-outline-secondary {
   border: solid 1px;
 }
+
 .btn.btn-outline-success {
   border: solid 1px;
 }
+
 .btn.btn-outline-danger {
   border: solid 1px;
 }
+
 .btn.btn-outline-warning {
   border: solid 1px;
 }
+
 .btn.btn-outline-info {
   border: solid 1px;
 }
+
 .btn.btn-outline-light {
   border: solid 1px;
 }
+
 .btn.btn-outline-dark {
   border: solid 1px;
 }
@@ -226,20 +250,24 @@ Profile Style
 .profile-info .w-25 {
   width: 120px !important;
 }
+
 .profile-info .h4 {
   font-size: 18px;
   margin-bottom: 10px;
 }
+
 .profile-info .span {
   font-size: 14px;
   display: block;
   margin-bottom: 20px;
 }
+
 .profile-info .h3 {
   font-weight: 600;
   font-size: 15px;
   margin-bottom: 10px;
 }
+
 .profile-info .h2 {
   font-size: 20px;
   font-weight: 700;
